@@ -52,3 +52,5 @@ export default tseslint.config({
   },
 })
 ```
+
+To Run The Page Use Terminal "npm run start" and choose local host in http://localhost:5173/, while code is running you can enter the page, Enjoy!
